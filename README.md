@@ -24,7 +24,7 @@ The notebook has the following sections:
    
        3.1 Run on a Hybrid CQM solver
    
-   4. [Embedding](#Embedding)
+   4. Embedding
 
 
 ## Installation
