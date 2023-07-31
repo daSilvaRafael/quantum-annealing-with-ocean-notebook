@@ -8,7 +8,7 @@ The notebook has the following sections:
 
    1. Ising and QUBO model
    
-       1.1 Exact solution]
+       1.1 Exact solution
        
        1.2 Simulated annealing
        
