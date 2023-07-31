@@ -63,4 +63,4 @@ R. Pereira da Silva (2023), [_Annealing Quantum Computing: An Overview_](https:/
 
 ## License
 
-Released under the Apache License 2.0. See [LICENSE](LICENSE.md) file.
+Released under the Apache License 2.0. See LICENSE file.
