@@ -2,7 +2,7 @@
 
 # Quantum Annealing with Ocean
 
-This jupyter notebook is a supplementary resource to the author’s paper _Annealing Quantum Computing: An Overview_. This paper aims to provide an accessible overview of annealing quantum computing. We give high-level explanations of the key quantum properties that are leveraged by a quantum annealer, along with the quantum mathematical formalism involved and references for further reading.
+This jupyter notebook is a supplementary resource to the author’s paper _Annealing Quantum Computing: An Overview_. The paper aims to provide an accessible overview of annealing quantum computing. We give high-level explanations of the key quantum properties that are leveraged by a quantum annealer, along with the quantum mathematical formalism involved and references for further reading.
 
 The notebook has the following sections:
 
